@@ -1,0 +1,2 @@
+# tecnologiaEmVideo
+exercicio de logica
