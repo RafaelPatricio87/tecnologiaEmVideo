@@ -12,7 +12,7 @@ const organizador = (dados) => {
                dados.unshift(dados.index)
             
         }
-        console.log(resultado)
+        console.log()
     }
 //  console.log(dados[0].itsMe)
 //  console.log(dados[0].admin)
